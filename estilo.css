@@ -15,3 +15,17 @@ nav li{
   body {
   background-color: #E6D3D8;
 }
+table{
+    table-layout: fixed;
+    width: 250px;
+}
+
+th, td {
+    border: 1px solid blue;
+    width: 200px;
+    word-wrap: break-word;
+}
+
+table,td, th {
+	border: 2px solid black;
+}
