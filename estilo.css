@@ -1,0 +1,17 @@
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+nav li{
+    display:inline-block;
+    width:12%;
+    padding:10px;
+    background-color:#C2A39F;
+    border:1px solid #C2A39F;
+    text-align:center;
+    color:#000;
+    border-radius: 20px;
+  body {
+  background-color: #E6D3D8;
+}
